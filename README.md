@@ -41,3 +41,7 @@ Key npm packages include:
 2. Install dependencies using `npm install`.
 3. Configure Vercel Postgres and Blob for the database and file storage.
 4. Run the development server with `npm run dev`.
+
+## Live Link
+
+[Link](https://job-board-smoky-phi.vercel.app/)
