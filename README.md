@@ -41,15 +41,3 @@ Key npm packages include:
 2. Install dependencies using `npm install`.
 3. Configure Vercel Postgres and Blob for the database and file storage.
 4. Run the development server with `npm run dev`.
-
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines for how to contribute to this project.
-
-## License
-
-[Specify the type of license here]
-
----
-
-This README provides an overview of the project. It includes a brief description, the technologies used, and basic instructions to get started. Expand each section as needed, providing more detailed descriptions, usage examples, and any other relevant information.
