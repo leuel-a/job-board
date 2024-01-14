@@ -219,7 +219,11 @@ export default function NewJobForm() {
                             id="applicationEmail"
                             placeholder="Email"
                             type="email"
-                            {...field}
+                            {...field} 
+                            onChange={(e) => {
+                              field.onChange(e);
+                              trigger('applicationUrl');
+                            }}
                           />
                           <span className="mx-2">or</span>
                         </div>

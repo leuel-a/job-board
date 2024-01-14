@@ -38,7 +38,6 @@ export async function createJobPosting(formData: FormData) {
 
     companyLogoUrl = blob.url;
   }
-
   await prisma.job.create({
     data: {
       slug,
